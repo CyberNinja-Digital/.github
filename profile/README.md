@@ -34,6 +34,12 @@ We're **CyberNinja Digital** — a software studio based in Warsaw, Poland, buil
 
 `React` `TypeScript` `Firebase` `Next.js` `Swift` `SwiftUI` `Node.js` `Tailwind CSS` `Stripe` `Vite` `Turborepo`
 
+### 💡 Free Consultation
+
+Have a project idea? Fill out a brief on our website and get a **free professional consultation** — we'll help you choose the right tech stack, estimate timelines, and plan your MVP.
+
+👉 [**Get started → cyberninja.digital**](https://cyberninja.digital)
+
 ### 📫 Get in Touch
 
 - 🌐 [cyberninja.digital](https://cyberninja.digital)
