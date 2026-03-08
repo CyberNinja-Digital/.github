@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CyberNinja-Digital/.github/main/assets/head-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CyberNinja-Digital/.github/main/assets/head-light.svg">
-  <img alt="CyberNinja Digital" src="https://raw.githubusercontent.com/CyberNinja-Digital/.github/main/assets/head-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CyberNinja-Digital/.github/main/assets/top-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CyberNinja-Digital/.github/main/assets/top-light.svg">
+  <img alt="CyberNinja Digital" src="https://raw.githubusercontent.com/CyberNinja-Digital/.github/main/assets/top-dark.svg" width="100%">
 </picture>
 
 ## Hey there 👋
